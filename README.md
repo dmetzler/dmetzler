@@ -11,7 +11,7 @@ I'm a developper, with experience in software architecture and development mainl
 <details>
   <summary><b>GitHub Statistics</b></summary>
   <div>
-    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=damienmetzler&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord" />
-    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damienmetzler&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
+    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=dmetzler&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord" />
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmetzler&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
   </div>
 </details>
